@@ -1,3 +1,3 @@
 # testrepo
-##editing in file
+# editing in file
 its a markdown heading in this file
